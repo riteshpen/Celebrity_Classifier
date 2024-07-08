@@ -31,3 +31,9 @@ Create a new Pull Request.
 - Juypter Notebook
 - VSCode
 - sklearn reference guide
+
+## Python Libraries 
+- Sklearn
+- Pandas
+- Numpy
+- Matplotlib
