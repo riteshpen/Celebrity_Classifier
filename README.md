@@ -32,7 +32,7 @@ Create a new Pull Request.
 ## Folder Layout
 - UI: UI website code
 - Server: Python flask server
-- Model: Test Images and opencv haarcascades for classifying features
+- Model: Test Images and OpenCV haarcascades for Classifying Features
 - Juypter notebook 
 
 ## Python Libraries 
