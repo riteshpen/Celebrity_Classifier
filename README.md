@@ -29,8 +29,15 @@ Create a new Pull Request.
 - VSCode
 - sklearn reference guide
 
+## Folder Layout
+- UI
+- 
+
 ## Python Libraries 
-- Sklearn
-- Pandas
-- Numpy
-- Matplotlib
+- Python
+- Numpy and OpenCV for data cleaning
+- Matplotlib & Seaborn for data visualization
+- Sklearn for model building
+- Jupyter notebook, VSCode
+- Python flask for http server
+- HTML/CSS/Javascript for UI
