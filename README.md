@@ -30,8 +30,9 @@ Create a new Pull Request.
 - sklearn reference guide
 
 ## Folder Layout
-- UI
-- 
+- UI: UI website code
+- Server: Python flask server
+- Model
 
 ## Python Libraries 
 - Python
